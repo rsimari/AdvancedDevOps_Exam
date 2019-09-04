@@ -5,3 +5,6 @@ date: 9/4/19
 """
 
 import pytest
+
+def test_nothing():
+	pass
